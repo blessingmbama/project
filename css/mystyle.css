@@ -1,0 +1,19 @@
+.navbar-inverse {
+  background-color:blueviolet;
+  border-color:bisque;
+}
+
+/*
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  color:burlywood;
+  background-color:beige;
+}*/
+
+#active{background-color:crimson}
+
+.btn {
+	background-color: antiquewhite;
+	color:forestgreen;
+}
